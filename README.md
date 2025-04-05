@@ -27,7 +27,9 @@ https://github.com/payal-dabhi/Excel-project-1/blob/main/dash.png
 -	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-https://github.com/payal-dabhi/Excel-project-1/blob/main/dashboard.png
+  https://github.com/payal-dabhi/Excel-project-1/blob/main/dash.png
+
+
 
 
 ## Project Insight
