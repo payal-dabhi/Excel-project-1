@@ -6,7 +6,7 @@ The Vrinda  store wants to create an annual sales report for 2022. So that , the
 
 ## Dataset used
 - <a href="https://github.com/payal-dabhi/Excel-project-1/blob/main/Vrinda%20Store%20-Project%201.xlsx">Dataset</a>
-- <a href=""
+  
 
 ## Questions (KPIs)
 -	Compare the sales and orders using single chart.
